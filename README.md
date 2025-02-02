@@ -1,6 +1,6 @@
 # Hi, I'm WesFly
 
 ## Interests
-- FOSS
+Free and Open Source Software
 
 https://unsplash.com/@wesfly
