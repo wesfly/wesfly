@@ -1,7 +1,7 @@
 # Hi, I'm WesFly
 
 ## Interests
-- FOSS
+- Free and open source software
 
 https://wesfly.github.io/website/
 https://unsplash.com/@wesfly
