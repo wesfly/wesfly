@@ -3,5 +3,5 @@
 ## Interests
 - Free and open source software
 
-https://wesfly.github.io/website/
-https://unsplash.com/@wesfly
+- https://wesfly.github.io/website/
+- https://unsplash.com/@wesfly
